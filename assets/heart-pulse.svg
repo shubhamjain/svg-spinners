@@ -1,0 +1,35 @@
+<svg viewbox="0 0 128 64"><style>:is(#back2089, #front2089) {
+            fill: none;
+            stroke-width: 3;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+
+        #back2089 {
+            fill: none;
+            stroke: currentColor;
+            opacity: 0.1;
+        }
+
+        #front2089 {
+            fill: none;
+            stroke: currentColor;
+            stroke-dasharray: 260;
+            stroke-dashoffset: 0;
+            animation: dash_6821 1.4s linear infinite;
+        }
+
+        @keyframes dash_6821 {
+
+            0% {
+                stroke-dashoffset: 260;
+                opacity: 1;
+            }
+
+            100% {
+                stroke-dashoffset: 0;
+                opacity: .5;
+            }
+        }</style><polyline points="0,45.486 38.514,45.486 44.595,33.324 50.676,45.486 57.771,45.486 62.838,55.622 71.959,9 80.067,
+    63.729 84.122,45.486 97.297,45.486 103.379,40.419 110.473,45.486 150,45.486" id="back2089"/><polyline points="0,45.486 38.514,45.486 44.595,33.324 50.676,45.486 57.771,45.486 62.838,55.622 71.959,9 80.067,
+    63.729 84.122,45.486 97.297,45.486 103.379,40.419 110.473,45.486 150,45.486" id="front2089"/></svg>
