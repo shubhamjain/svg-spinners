@@ -1,6 +1,8 @@
 # SVG Spinners
 Collection of open-source SVG-based spinners (CSS &amp; SMIL).
 
+**[Demo](https://magecdn.com/tools/svg-loaders)**
+
 # Sources
 - [SamHerbert / SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders)
 - [n3r4zzurr0 / svg-spinners](https://github.com/n3r4zzurr0/svg-spinners)
