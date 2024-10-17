@@ -6,7 +6,7 @@ Collection of open-source SVG-based spinners (CSS &amp; SMIL).
 ## Usage
 Each icon can be used either using IMG tag or as an inline SVG. 
 
-Each SVG has a fill set to `currentColor`. So, to change the color, you can either modify the fill directly:
+Each SVG has a fill set to `currentColor`. So, to change the color, you can either modify the fill/stroke directly:
 
 ```html
 <svg fill="#fff" width="140" height="64" viewBox="0 0 140 64" xmlns="http://www.w3.org/2000/svg">
